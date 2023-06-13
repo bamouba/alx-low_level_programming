@@ -3,7 +3,8 @@
  * we gonna print the alphabet 10 time in a row
  *
  */
-void print_alphabet_x10(void){
+void print_alphabet_x10(void)
+{
 	int ch;
 
 	int i;
