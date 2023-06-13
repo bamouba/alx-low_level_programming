@@ -1,7 +1,7 @@
 #include "main.h"
-/**
+/**why should i always explain
  *
- *
+ *like why
  *
  */
 void print_alphabet(void){
